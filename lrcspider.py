@@ -1,11 +1,9 @@
 # -*- coding: utf-8 -*-
 #Filename:lrcspider.py
-import urllib
-from HTMLParser import HTMLParser
 import sys
-import traceback
-abs
-a
+import urllib
+
+from HTMLParser import HTMLParser
 
 success = 0
 
