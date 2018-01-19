@@ -5,6 +5,7 @@ from HTMLParser import HTMLParser
 import sys
 import traceback
 
+
 success = 0
 def changecode():
     try:
