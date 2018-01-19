@@ -13,7 +13,7 @@ def changecode():
         print default,new
         if new != default:
             reload(sys)
-            print default,new
+            print(default,new)
             sys.setdefaultencoding(new)
     except Exception,e:
         print 'changecode except'
